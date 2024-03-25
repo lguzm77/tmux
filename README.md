@@ -11,7 +11,7 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 to install TPM, then press <leader>I to download plugins 
 
 # Plugins Used
-- Catpuccin
+- Dracula
 
 # Future improvements
 
